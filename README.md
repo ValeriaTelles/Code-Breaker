@@ -19,7 +19,7 @@ There is a number lock with a 3 digit code. Can you solve this logic problem fro
 5. Program will either check the input if the **GUESS** button is selected or computationally solve the riddle if the **GIVE UP** button is selected 
 
 ## Example:
-#### Terminal:
+#### Terminal Input:
 ![](https://media.giphy.com/media/jofceQvSwd6ykokXTa/giphy.gif)
 
 #### Test Cases: 
