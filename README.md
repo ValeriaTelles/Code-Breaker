@@ -1,6 +1,6 @@
 ﻿# Code Breaker
 
-There is a number lock with a 3 digit code. Can you solve this logic problem from the following hints? If not, ***CodeBreaker*** will solve it for you computationally! 
+There is a number lock with a 3 digit code. Can you solve this logic problem from the following hints? If not, ***CodeBreaker*** will solve it for you computationally using Boolean logic! 
 
 ## Hints
 
@@ -42,11 +42,3 @@ Your guess is:
 Your guess is: Hello
 Your guess is: 042
 ```
-
-
-
-
-  
-
-
-
