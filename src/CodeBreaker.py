@@ -23,7 +23,7 @@ def get_guess(entry):
 
     # check if the string contains any letters from the alphabet 
     alpha_check = re.search('[a-zA-Z]', entry) 
-    #check if the string contains any common symbols
+    # check if the string contains any common symbols
     symbol_check = re.findall('[+!@`~#$%^&*()-]', entry)
 
     if entry == "" or alpha_check or symbol_check:
@@ -97,6 +97,7 @@ Significant features include an entry widget for user input and two buttons to r
 """
 # root window to place the contents
 root = tk.Tk()
+root.resizable(width=False, height=False)
 root.title('Code Breaker')
 
 # setting the canvas
